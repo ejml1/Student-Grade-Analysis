@@ -1,0 +1,5 @@
+/data(private)
+/data_preparation/private
+.DS_Store
+/scripts/__pycache__/
+/backup
