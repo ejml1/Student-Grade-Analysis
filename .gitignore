@@ -1,5 +1,6 @@
 /data(private)
-/data_preparation/private
+/notebooks/private
 .DS_Store
 /scripts/__pycache__/
 /backup
+.gitignore
