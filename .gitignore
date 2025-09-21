@@ -1,6 +1,0 @@
-/data(private)
-/notebooks/private
-.DS_Store
-/scripts/__pycache__/
-/backup
-.gitignore
