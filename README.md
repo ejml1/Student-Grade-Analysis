@@ -1,4 +1,11 @@
-## Student Grade Prediction [[view code]](https://github.com/ejml1/Student-Grade-Analysis/blob/master/data_preparation/data_preparation.ipynb) 
+## Student Grade Prediction [[view code]](https://github.com/ejml1/Student-Grade-Analysis/blob/master/notebooks/eda.ipynb) 
+
+![Static Badge](https://img.shields.io/badge/Python-3.13.5-green)
+![Static Badge](https://img.shields.io/badge/pandas-2.3.1-orange)
+![Static Badge](https://img.shields.io/badge/matplotlib-3.10.3-orange)
+![Static Badge](https://img.shields.io/badge/seaborn-0.13.2-orange)
+![Static Badge](https://img.shields.io/badge/scikit--learn-1.7.1-orange)
+![Static Badge](https://img.shields.io/badge/imbalanced--learn-0.14.0-orange)
 
 <p align ="center">
     <img src="images/ib.png">
